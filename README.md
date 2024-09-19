@@ -5,3 +5,6 @@ Upon completion of the project's 30-year lifespan, the site and its ecosystem wi
 The Weaveley Solar Farm Biodiversity Project is more than just a programme; it's a commitment to embracing the potential ecological benefit of our project area. Our project is tailored to these local ecological conditions, ensuring that our conservation efforts and site management are appropriate and effective.
 This guide serves as a roadmap detailing our intended biodiversity monitoring programme. We are driven by the belief that the Weaveley solar farm can be an example of positive change by protecting and enhancing the biodiversity in our project area setting a new standard for responsible solar energy development.
 As stewards of this land, we invite you to join us on this journey, as we navigate the delicate balance between energy production and nature conservation. We seek to pave the way to a sustainable and harmonious coexistence between our solar farm and the ecosystems that surround it, setting an example for the future of renewable energy and environmental preservation.
+
+Supporting website and live data
+https://innovation.blenheimpalace.com/weaveley/
